@@ -1,2 +1,2 @@
 <?php
-echo "asfasfasf";
+echo "http://www.baidu.com";
