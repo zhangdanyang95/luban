@@ -1,2 +1,2 @@
 <?php
-echo "http://www.baidu.com";
+echo "http://www.sina.com";
